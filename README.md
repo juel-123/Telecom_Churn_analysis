@@ -24,4 +24,16 @@ Intl mins: Total minutes charged.
 Intl calls:Total international calls made.
 Intl charge:Total international charge.
 Customer service calls : Number of customer service calls made.
+
+
+Solution to business objective :
+My suggestions to client to reduce customer churn :
+
+Modify international plan to the normal one.
+Offer customer with the best plans.
+can apply market penetration strategy.
+Regular server maintence
+solving poor network connectivity issue.
+Take regular feedback from the customer.
+Analyze churn when it happens.
 Churn : Customer Churn(Target variable True=1,False=2)
