@@ -37,3 +37,14 @@ solving poor network connectivity issue.
 Take regular feedback from the customer.
 Analyze churn when it happens.
 Churn : Customer Churn(Target variable True=1,False=2)
+
+
+Conclusion
+The Telecommunication industry is already well estabilished and the the rate of new customers is low. Customers basically prefer network which is well reached to all corners of the environment. In this project we analyzed a Churn dataset to identify the main factor effecting churn and gain valuable insights. Through exploratory analysis, we were able to get insights listed below:-
+
+The four charge features are directly related minutes features.
+The area code feature may not be relevent and can be execluded.
+Customers with international tends to churn often more.
+Customers who had fore or more service calls churn significantly than others.
+Customers with high day and evening minute usage tend to churn at higher rate.
+There is no clear relationship between churn and variables such as day calls, evening calls, night calls,international minutes, account length and voice mail messages.
